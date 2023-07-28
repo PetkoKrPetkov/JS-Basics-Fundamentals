@@ -9,7 +9,8 @@ function stringSubstring(word, sentence) {
         }
         
     }
-    console.log(`${word} not found!`);
+    console.log(`${word} not found!`);dxjm,u22
+    
     
 
 }
